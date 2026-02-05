@@ -1,2 +1,0 @@
-# satellite_classification
-
