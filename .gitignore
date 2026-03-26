@@ -1,0 +1,9 @@
+data/
+outputs/visualizations/
+outputs/results/
+models/saved_models/
+*.tif
+*.TIF
+*.h5
+*.pkl
+*.zip
