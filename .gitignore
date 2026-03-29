@@ -7,3 +7,5 @@ models/saved_models/
 *.h5
 *.pkl
 *.zip
+.DS_Store
+**/.DS_Store
