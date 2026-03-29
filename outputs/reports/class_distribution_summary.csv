@@ -1,0 +1,36 @@
+Model,Class,%pixels
+RF,Hills/Rocky,20.91
+RF,Crop Fields,10.86
+RF,Fallow Land,13.09
+RF,Water Body,21.18
+RF,Sandy River,4.9
+RF,Plantation,23.06
+RF,Built-up,5.99
+CNN,Hills/Rocky,25.5
+CNN,Crop Fields,25.03
+CNN,Fallow Land,12.12
+CNN,Water Body,6.43
+CNN,Sandy River,7.73
+CNN,Plantation,7.29
+CNN,Built-up,15.9
+U-Net Scratch,Hills/Rocky,98.66
+U-Net Scratch,Crop Fields,0.0
+U-Net Scratch,Fallow Land,1.34
+U-Net Scratch,Water Body,0.0
+U-Net Scratch,Sandy River,0.0
+U-Net Scratch,Plantation,0.0
+U-Net Scratch,Built-up,0.0
+U-Net Pretrained,Hills/Rocky,9.22
+U-Net Pretrained,Crop Fields,77.94
+U-Net Pretrained,Fallow Land,6.68
+U-Net Pretrained,Water Body,0.0
+U-Net Pretrained,Sandy River,0.16
+U-Net Pretrained,Plantation,0.22
+U-Net Pretrained,Built-up,5.78
+Ensemble,Hills/Rocky,70.66
+Ensemble,Crop Fields,20.61
+Ensemble,Fallow Land,3.53
+Ensemble,Water Body,1.72
+Ensemble,Sandy River,1.31
+Ensemble,Plantation,1.08
+Ensemble,Built-up,1.08
