@@ -3,8 +3,6 @@
 > Pixel-level land cover classification of Sentinel-2 L2A satellite imagery using Random Forest, CNN, and U-Net deep learning models — trained on Rajasthan, validated on Maharashtra.
 
 **Authors:** Parth Porwal · Yashvi Solanki  
-**Institution:** Manipal University Jaipur  
-**Registration:** 23FE10ITE00030  
 **Research Internship:** BIT Mesra — Geospatial Deep Learning (2025–2026)
 
 ---
@@ -209,7 +207,7 @@ If referencing this work:
 ```
 Porwal, P. & Solanki, Y. (2026). Deep Learning Workflow for Geo-Spatial Data Classification.
 BIT Mesra Geospatial Deep Learning Research Internship.
-Manipal University Jaipur. GitHub: https://github.com/parthp-4/satellite_classification
+GitHub: https://github.com/parthp-4/satellite_classification
 ```
 
 ---
