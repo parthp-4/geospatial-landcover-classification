@@ -1,4 +1,4 @@
-# 🛰️ Deep Learning Workflow for Geo-Spatial Data Classification
+# Deep Learning Workflow for Geo-Spatial Data Classification
 
 > Pixel-level land cover classification of Sentinel-2 L2A satellite imagery using Random Forest, CNN, and U-Net deep learning models — trained on Rajasthan, validated on Maharashtra.
 
